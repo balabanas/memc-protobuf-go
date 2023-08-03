@@ -1,4 +1,4 @@
-module github.com/balabanas/memc-protobuf
+module github.com/balabanas/memc-protobuf-go
 
 go 1.20
 
